@@ -5,3 +5,5 @@
 4. 큐가 빌 때까지 2번을 반복
 
 모든 칸이 큐에 1번씩 들어가기대문에 시간복잡도는 칸이 N개일 때 O(N)
+
+![bfs-example](https://github.com/zzola1453/Algorithm/assets/71739885/6f35e9bd-d137-4f86-9ba6-d89a7982b4d7)
