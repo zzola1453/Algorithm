@@ -11,5 +11,6 @@
 
 연습문제
 https://www.acmicpc.net/problem/1926 :white_check_mark:
+https://www.acmicpc.net/problem/2178
 
 ![bfs-example](https://github.com/zzola1453/Algorithm/assets/71739885/6f35e9bd-d137-4f86-9ba6-d89a7982b4d7)
