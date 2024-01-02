@@ -1,4 +1,5 @@
 //바킹독 버전
+//https://blog.encrypted.gg/941
 #include <iostream>
 #include <algorithm>
 #include <queue>
