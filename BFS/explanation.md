@@ -9,7 +9,7 @@
 
 모든 칸이 큐에 1번씩 들어가기대문에 시간복잡도는 칸이 N개일 때 O(N)
 
-연습문제  
+### 연습문제  
 백준1926 https://www.acmicpc.net/problem/1926 :white_check_mark:  
 백준2178 https://www.acmicpc.net/problem/2178
 
