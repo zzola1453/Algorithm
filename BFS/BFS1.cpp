@@ -1,4 +1,4 @@
-//바킹독 버전
+//바킹독(내가 짠거 아님)
 //https://blog.encrypted.gg/941
 #include <iostream>
 #include <algorithm>
